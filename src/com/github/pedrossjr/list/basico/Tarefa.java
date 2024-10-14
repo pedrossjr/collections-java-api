@@ -1,4 +1,4 @@
-package com.github.pedrossjr.list.terefas;
+package com.github.pedrossjr.list.basico;
 
 public class Tarefa {
     private String descricao;

@@ -1,7 +1,6 @@
 package com.github.pedrossjr.list.ordenacao;
 
 import java.util.Comparator;
-import java.util.PrimitiveIterator;
 
 public class Pessoa implements Comparable<Pessoa> {
 

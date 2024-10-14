@@ -1,4 +1,4 @@
-package com.github.pedrossjr.list.carrinho;
+package com.github.pedrossjr.list.basico;
 
 public class Item {
     private String nome;

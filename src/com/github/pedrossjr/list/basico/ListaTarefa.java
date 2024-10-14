@@ -1,4 +1,4 @@
-package com.github.pedrossjr.list.terefas;
+package com.github.pedrossjr.list.basico;
 
 import java.util.ArrayList;
 import java.util.List;
